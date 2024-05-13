@@ -8,7 +8,8 @@
    `-f gameshell-labo03.tar` : spécifier l'archive à extraire.     
    
 ## Description :
- - Ma correction pour le jeu GameShell du labo3 du cours INF1070. 
+ - Ma correction pour le jeu GameShell du labo3 du cours INF1070.
+ - Les informations données au début du jeu ne sont pas importantes. (C'était le TP d'une session entérieure).     
  - Je promets d'avoir testé sur une distribution Linux. Cependant, ayant moi-même été victime de bugs, je vous recommande de faire des `gash restart` de temps en temps, voire même de recommencer depuis le début.
 
 ## Mission 1 :
