@@ -122,8 +122,9 @@ journal
 
 **_ATTENTION_** : il est possible que le nom du couloir ne soit pas le meme ! (ne pas simplement copier coller l'instruction 
 ```sh
-cd ~/Chateau/Cave/.Long d1f23a269117cdbff471f6a68edd6aca4419d937 Couloir d0f81167efeb878d268a561644572f5431f476ce
+cd ~/Chateau/Cave/.Long d1f23a269117cdbff471f6a68edd6aca4419d937\ Couloir\ d0f81167efeb878d268a561644572f5431f476ce
 ```
 
 ## Mission 16 :
 Rien a faire ! 
+Pour quitter, entrez `exit`.
