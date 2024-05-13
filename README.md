@@ -1,5 +1,12 @@
 # sol-gash-labo-3
 
+## Installation de GASH :   
+ - Télécharger le `gameshell-labo03.tar`  
+ - Dans le terminal (déplacer vous dans les téléchargements) utiliser `tar -xf gameshell-labo03.tar` :
+   `tar` : commande qui sert à archiver ou dé-archiver des fichiers.
+   `-x` : pour extraire.
+   `-f gameshell-labo03.tar` : spécifier l'archive à extraire.  
+   
 ## Description :
  - Ma correction pour le jeu GameShell du labo3 du cours INF1070. 
  - Je promets d'avoir testé sur une distribution Linux. Cependant, ayant moi-même été victime de bugs, je vous recommande de faire des `gash restart` de temps en temps, voire même de recommencer depuis le début.
@@ -108,7 +115,7 @@ alias journal='nano ~/Foret/Cabane/Coffre/journal.txt'
 journal
 ```
 
-`journal` devrait ouvrir nano, ici j'ai ajoute un peu de texte puis j'ai sauvegarde avec nano pour qu'un fichier soit cree ! 
+`journal` devrait ouvrir nano, ici j'ai ajoute un peu de texte puis j'ai sauvegarde avec nano pour qu'un fichier soit crée ! 
 
 ## Mission 15 : 
 
