@@ -128,3 +128,30 @@ cd ~/Chateau/Cave/.Long d1f23a269117cdbff471f6a68edd6aca4419d937\ Couloir\ d0f81
 ## Mission 16 :
 Rien a faire ! 
 Pour quitter, entrez `exit`.
+
+
+# BANDIT :    
+
+Même si je donne les commandes, je ne donne pas les mots de passe :) 
+
+## Commencer :    
+
+- Se connecter avec `ssh` :    
+  ```sh
+  ssh bandit0@bandit.labs.overthewire.org -p 2220
+  ```    
+  `ssh` : secure shell !    
+  `-p` : permet d'indiquer un port (ici 2220)    
+  `bandit0@bandit.labs.overthewire.org` : `bandit0` est le nom d'utilisateur ! (qui devra changer pour passer aux autres missions).
+
+  Appuyer sur `Entrer` pour accepter le `fingerprint`.
+  Le mot de passe est inscrit sur le site !  
+
+  ## Mission 1 :
+  
+  ```sh
+  cat readme 
+  ``
+  
+
+
