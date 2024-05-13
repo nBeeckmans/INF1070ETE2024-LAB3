@@ -130,10 +130,11 @@ Rien a faire !
 Pour quitter, entrez `exit`.
 
 
-# BANDIT :    
-
-Même si je donne les commandes, je ne donne pas les mots de passe :) 
-
+# BANDIT :      
+   
+Même si je donne les commandes, je ne donne pas les mots de passe :)     
+Pour quitter une mission : `exit` 
+    
 ## Commencer :    
 
 - Se connecter avec `ssh` :    
@@ -151,7 +152,7 @@ Même si je donne les commandes, je ne donne pas les mots de passe :)
   
   ```sh
   cat readme 
-  ``
+  ```
   
 
 
