@@ -1,4 +1,4 @@
-# sol-gash-labo-3
+# INF1070ETE2024-LAB3
 
 ## Installation de GASH :     
  - Télécharger le `gameshell-labo03.tar`     
