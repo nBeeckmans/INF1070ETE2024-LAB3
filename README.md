@@ -1,11 +1,11 @@
 # sol-gash-labo-3
 
-## Installation de GASH :   
- - Télécharger le `gameshell-labo03.tar`  
- - Dans le terminal (déplacer vous dans les téléchargements) utiliser `tar -xf gameshell-labo03.tar` :
-   `tar` : commande qui sert à archiver ou dé-archiver des fichiers.
-   `-x` : pour extraire.
-   `-f gameshell-labo03.tar` : spécifier l'archive à extraire.  
+## Installation de GASH :     
+ - Télécharger le `gameshell-labo03.tar`     
+ - Dans le terminal (déplacer vous dans les téléchargements) utiliser `tar -xf gameshell-labo03.tar` :   
+   `tar` : commande qui sert à archiver ou dé-archiver des fichiers.   
+   `-x` : pour extraire.     
+   `-f gameshell-labo03.tar` : spécifier l'archive à extraire.     
    
 ## Description :
  - Ma correction pour le jeu GameShell du labo3 du cours INF1070. 
