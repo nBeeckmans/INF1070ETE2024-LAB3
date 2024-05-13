@@ -148,11 +148,16 @@ Pour quitter une mission : `exit`
   Appuyer sur `Entrer` pour accepter le `fingerprint`.
   Le mot de passe est inscrit sur le site !  
 
-  ## Mission 1 :
+  ## Mission 0 :
   
   ```sh
   cat readme 
+  ```   
+  Copiez le mot de passe (`ctrl-shift-v` ou avec un clique-droit !).     
+  Quittez la mission (`exit`).    
+  Lancer la mission suivante :
+  ```sh
+  ssh bandit1@bandit.labs.overthewire.org -p 2220
   ```
-  
 
-
+  ## Mission 1 : 
