@@ -173,3 +173,10 @@ cat spaces\ in\ this\ filename
 ```
 
 ## Mission 3 :
+
+```sh
+cat inhere/.hidden 
+```
+
+## Mission 4 : 
+ 
