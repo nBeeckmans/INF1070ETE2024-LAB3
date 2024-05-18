@@ -179,4 +179,66 @@ cat inhere/.hidden
 ```
 
 ## Mission 4 : 
- 
+
+Dans le dossier `inhere/` : 
+```sh
+file ./-file0*
+```
+
+Le mot de passe se trouve dans le fichier ASCII ! 
+
+## Mission 5: 
+
+```sh
+find . -type f -size 1033c
+```
+`find` : commande qui permet de trouver des fichiers   
+`.` : dossier de départ 
+`-type f` : spécifie qu'on cherche des fichiers 
+`-size 1033c` : spécifie la taille (1033 bytes/octets)
+
+## Mission 6 :
+
+```sh
+find / -type f -size 33c -group bandit6 -user bandit7 2> /dev/null
+```
+
+`-group bandit6` : spécifie le groupe d'appartenance 
+`-user bandit7` : spécifie l'utilisateur d'appartenance 
+`2> /dev/null` : redirige les sorties d'erreurs vers `/dev/null`  
+
+## Mission 7 : 
+
+```sh
+grep "millionth" data.txt
+```
+`grep` : commande qui permet de chercher des patrons dans des fichiers textes 
+`"millionth"` : patron à chercher 
+`data.txt` : fichier dans lequel chercher 
+
+## Mission 8 :
+
+```sh
+cat data.txt | sort | uniq -u
+```
+
+`cat data.txt` : affiche le contenu de `data.txt` dans la sortie standard
+`| sort` : permet d'ordonner les lignes par ordre alphabétique
+`| uniq -u ` : affiche la ligne unique du fichier
+
+## Mission 9 : 
+
+```sh
+strings data.txt | grep "====="
+```
+
+`strings data.txt` : affiche de façon lisible le contenu du fichier 
+`| grep "====="` : cherche les lignes qui contiennent `"====="`
+
+## Mission 10 : 
+
+```sh
+base64 -d data.txt
+```
+
+`base64 -d data.txt` : permet de décoder le contenu de `data.txt`
